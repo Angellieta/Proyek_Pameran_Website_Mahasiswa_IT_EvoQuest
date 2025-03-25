@@ -1,0 +1,11 @@
+:root {
+    --primary-color: #f6f8fd;
+    --secondary-color: #fcd24f;
+    --color-text: #303224;
+    --navbar-color: #ffffff;
+    --navbar-color-text: #100007;
+}
+
+header {
+    background; #ffffff;
+}
